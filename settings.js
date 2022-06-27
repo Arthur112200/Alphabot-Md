@@ -18,21 +18,21 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "Arthur-Mdོ" //namabot kalian
-global.ownername= "Arthur" //nama kalian
-global.myweb ="https://wa.me/6283156715878" //bebas asal jan hapus
+global.botname = "rizal-Mdོ" //namabot kalian
+global.ownername= "rizal" //nama kalian
+global.myweb ="https://wa.me/6289671920202" //bebas asal jan hapus
 global.youtube = "https://wa.me/6283156715878" //bebas asal jan hapus
 global.github = "https://wa.me/6283156715878" //bebas
-global.email = "Arthur@gmail.com" //bebas
+global.email = "rizal/Arthur@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6283156715878" // nomor wa kalian
-global.ownernomerr = "+6283156715878" //nmr wa kalian
+global.ownernomer = "6289671920202" // nomor wa kalian
+global.ownernomerr = "+6289671920202" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6283156715878","6283156715878","6283156715878"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Arthur-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh Arthur' //sticker wm ganti nama kalian
+global.owner = ["6289671920202","6283156715878","6283156715878"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© rizal-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh Arthur/rizal' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
